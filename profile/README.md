@@ -9,11 +9,14 @@
 
 ## 🚀 Projects
 
-| Project | PyPI | TL;DR |
-|---------|------|-------|
-| **[cacao](https://github.com/cacao-research/cacao)** | `pip install cacao` | The core reactive framework — decorator API, JSON UIs, WebSocket updates. |
-| **[cacao‑json‑viewer](https://github.com/cacao-research/cacao-json-viewer)** | `pip install cacao-json-viewer` | One‑liner `preview_json(data)` opens a desktop JSON / tree viewer. |
-| **[cacao‑pandas‑ui](https://github.com/cacao-research/cacao-pandas-ui)** | `pip install cacao-pandas-ui` | `preview(df)` renders any DataFrame as an interactive table. |
+| Project                                                                                    | PyPI                                   | TL;DR                                                                           |
+| ------------------------------------------------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------------------------- |
+| **[cacao](https://github.com/cacao-research/cacao)**                                       | `pip install cacao`                    | The core reactive framework — decorator API, JSON UIs, WebSocket updates.       |
+| **[cacao‑json‑viewer](https://github.com/cacao-research/cacao-json-viewer)**               | `pip install cacao-json-viewer`        | One‑liner `preview(data)` opens a desktop JSON / tree viewer.              |
+| **[cacao‑pandas‑ui](https://github.com/cacao-research/cacao-pandas-ui)**                   | `pip install cacao-pandas-ui`          | `preview(df)` renders any DataFrame as an interactive table.                    |
+| **[cacao‑password](https://github.com/cacao-research/cacao-password)**                     | `pip install cacao-password`           | Secure password generator with CLI and GUI, featuring a brown‑themed interface. |
+| **[cacao‑password‑generator](https://github.com/cacao-research/cacao-password-generator)** | `pip install cacao-password-generator` | Generate strong, policy‑compliant passwords with customizable rules.            |
+
 
 _⭐ More mini‑apps coming soon (Mermaid diagrams, fuzzy search, etc.)_
 
